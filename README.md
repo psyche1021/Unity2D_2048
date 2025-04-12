@@ -1,1 +1,1 @@
-# 2048Copy
+# 2048 Imitative Study Project
